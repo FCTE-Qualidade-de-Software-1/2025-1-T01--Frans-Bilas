@@ -1,0 +1,45 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Arquivos de cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de logs e banco de dados locais
+*.log
+*.sqlite3
+
+# Configurações do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Build do MkDocs
+site/
+
+# Arquivos de pacotes
+*.egg-info/
+dist/
+build/
+
+# Arquivos de dependências geradas
+Pipfile.lock
+poetry.lock
+
+# Arquivos do mkdocs gh-deploy
+*.lock

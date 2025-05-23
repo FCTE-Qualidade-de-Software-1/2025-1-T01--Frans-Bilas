@@ -1,0 +1,43 @@
+site_name: Frans Bilas - Qualidade de Software 1
+site_url: https://fcte-qualidade-de-software-1.github.io/2025-1-T01--Frans-Bilas/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: teal
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+  font:
+    text: Roboto
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - content.code.annotate
+    - search.highlight
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas
+  #favicon: images/favicon.ico
+  #logo: images/logo.png
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+
