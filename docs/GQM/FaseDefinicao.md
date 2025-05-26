@@ -12,6 +12,10 @@
 
 ### Abstraction sheets
 
+| Objeto            | Propósito                        | Foco de Qualidade        | Ponto de Vista            |
+|-------------------|----------------------------------|--------------------------|---------------------------|
+| Agromart          | Entender o contexto da aplicação | Usabilidade              | Equipe de desenvolvimento |
+
 ## Tabela de contribuições
 
 | Matrícula       | Nome Completo                          | Contribuição (%) |
