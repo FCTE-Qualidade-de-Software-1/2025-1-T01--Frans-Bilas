@@ -41,3 +41,10 @@ markdown_extensions:
   - toc:
       permalink: true
 
+nav:
+  - Equipe Frans Bilas: "index.md"
+  - Agromart: "Agromart.md"
+  - GQM:
+    - Introdução: "GQM/Introdução.md"
+    - Fase Definição: "GQM/FaseDefinicao.md"
+
