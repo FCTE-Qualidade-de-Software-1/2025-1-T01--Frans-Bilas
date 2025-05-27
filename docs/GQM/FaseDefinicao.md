@@ -4,13 +4,66 @@
 
 ## Objetivo de Medição 1
 
-### Questões Objetivo de Medição 1
+| **🔍 Analisar**          | o Agromart                                |
+|--------------------------|-------------------------------------------|
+| **🎯 Para o propósito de** | entender o contexto da aplicação         |
+| **📍 Com respeito a**     | usabilidade do aplicativo                |
+| **💡 Do ponto de vista da** | equipe de desenvolvimento                |
+| **🏫 No contexto de**     | disciplina Qualidade de Software          |
 
-### Relação entre objetivos de medição – Questões e Métricas
+## Questões Objetivo de Medição 1
+
+**Q1:** O design da interface do Agromart está alinhado aos princípios de usabilidade definidos pela equipe de desenvolvimento?
+
+**Hipótese Q1:** A interface do Agromart está sendo construída com foco em simplicidade, acessibilidade e navegação intuitiva.
+
+**Métricas para Q1:**
+
+- **M1.1:** Número de alterações realizadas após revisões de design focadas em usabilidade.
+- **M1.2:** Taxa de aprovação dos protótipos pelos desenvolvedores em revisões internas.
+- **M1.3:** Número de inconsistências de navegação encontradas nos testes internos.
+
+---
+
+**Q2:** As funcionalidades do Agromart são intuitivas para os fluxos de operação definidos?
+
+**Hipótese Q2:** Os principais fluxos (como cadastro de produtos, compra e venda) são compreensíveis sem a necessidade de treinamento intensivo.
+
+**Métricas para Q2:**
+
+- **M2.1:** Tempo médio para completar os fluxos principais durante testes de usabilidade internos.
+- **M2.2:** Quantidade de passos necessários para realizar operações críticas.
+- **M2.3:** Número de dúvidas levantadas pela equipe durante as fases de testes.
+
+---
+
+**Q3:** O desenvolvimento do Agromart está garantindo a acessibilidade da interface para diferentes perfis de usuários?
+
+**Hipótese Q3:** O design e os componentes da aplicação estão sendo desenvolvidos levando em consideração diferentes perfis de usuários (como agricultores e consumidores com variados níveis de familiaridade com tecnologia).
+
+**Métricas para Q3:**
+
+- **M3.1:** Número de ajustes realizados para melhorar a acessibilidade.
+- **M3.2:** Quantidade de problemas de navegação encontrados em testes internos.
+- **M3.3:** Taxa de sucesso dos testes de usabilidade focados em acessibilidade.
+
+---
+
+**Q4:** A documentação técnica está sendo clara e suficiente para orientar o desenvolvimento focado em usabilidade?
+
+**Hipótese Q4:** A documentação está permitindo que os desenvolvedores entendam claramente os requisitos de usabilidade para cada módulo do Agromart.
+
+**Métricas para Q4:**
+
+- **M4.1:** Número de inconsistências encontradas entre a documentação e o desenvolvimento implementado.
+- **M4.2:** Quantidade de dúvidas levantadas pelos desenvolvedores relacionadas aos requisitos de usabilidade.
+- **M4.3:** Frequência de atualizações necessárias para alinhar a documentação aos objetivos de usabilidade.
+
+## Relação entre objetivos de medição – Questões e Métricas
 
 ![Questões e Métricas](../assets/QuestoesMetricas.png)
 
-### Abstraction sheets
+## Abstraction sheets
 
 | **👁️ Objeto** | **🚀 Propósito** | **📍 Foco de Qualidade** | **💡 Ponto de Vista** |
 |---------------|-----------------|-------------------------|----------------------|
