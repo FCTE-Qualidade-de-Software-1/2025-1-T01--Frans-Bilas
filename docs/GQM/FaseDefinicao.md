@@ -2,6 +2,8 @@
 
 ## Objetivo de negócio do Agromart
 
+Facilitar o escoamento da produção da agricultura familiar por meio de uma solução tecnológica que conecta agricultores e consumidores, promovendo sustentabilidade e segurança alimentar.
+
 ## Objetivo de Medição 1
 
 | **🔍 Analisar**          | o Agromart                                |
