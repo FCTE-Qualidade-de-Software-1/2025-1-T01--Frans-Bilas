@@ -6,10 +6,10 @@ Somos a Equipe Frans Bilas e estamos felizes em compartilhar o nosso projeto des
 
 ## 💡 Objetivo
 
-A avaliação do software Agromart tem como objetivo a adequação deste às normas de qualidade, com foco na experiência do usuário - especialmente no contexto da agricultura familiar, buscando uma interface mais amigável ao público-alvo - e também na perspectiva da equipe de desenvolvimento, garantindo uma documentação clara e objetivos bem definidos. Além disso, também visa identificar oportunidades de melhoria a serem implementadas ao longo do projeto.
+A avaliação do software Agromart tem como objetivo a adequação deste às normas de qualidade, com foco na usabilidade - especialmente no contexto da agricultura familiar, buscando uma interface mais amigável ao público-alvo - e também na perspectiva da equipe de desenvolvimento, garantindo uma documentação clara e objetivos bem definidos. Além disso, também visa identificar oportunidades de melhoria a serem implementadas ao longo do projeto.
 
 
-## 👩‍💻 Desenvolvedores(as) 👨‍💻
+## 👩‍💻 Integrantes 👨‍💻
 
 <table>
 	<tr>
