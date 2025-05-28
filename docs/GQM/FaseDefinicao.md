@@ -83,7 +83,7 @@
 |-----------------|----------------------------------------|------------------|
 | 222006534       | Anna Clara Cardoso Evangelista Brandão |              |
 | 231011220       | Davi Camilo Menezes                    |              |
-| 221022050       | Larissa de Jesus Vieira                |              |
+| 221022050       | Larissa de Jesus Vieira                |       16.6       |
 | 221008356       | Maria Eduarda Vieira Monteiro          |               |
 | 221022417       | Paulo Henrique Melo de Souza           |               |
 | 221031238       | Victor Augusto de Sousa Câmara         |               |
