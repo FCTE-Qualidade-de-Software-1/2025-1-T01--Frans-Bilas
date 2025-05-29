@@ -83,7 +83,7 @@ Facilitar o escoamento da produção da agricultura familiar por meio de uma sol
 
 | Matrícula       | Nome Completo                          | Contribuição (%) |
 |-----------------|----------------------------------------|------------------|
-| 222006534       | Anna Clara Cardoso Evangelista Brandão |              |
+| 222006534       | Anna Clara Cardoso Evangelista Brandão |       16.6       |
 | 231011220       | Davi Camilo Menezes                    |       10.0       |
 | 221022050       | Larissa de Jesus Vieira                |       16.6       |
 | 221008356       | Maria Eduarda Vieira Monteiro          |               |
