@@ -44,6 +44,8 @@ markdown_extensions:
 nav:
   - Equipe Frans Bilas: "index.md"
   - Agromart: "Agromart.md"
+  - Processo de Avaliação do Produto:
+    - Etapa 1: "EtapaUm/EtapaUm.md"
   - GQM:
     - Fase Definição: "GQM/FaseDefinicao.md"
 
