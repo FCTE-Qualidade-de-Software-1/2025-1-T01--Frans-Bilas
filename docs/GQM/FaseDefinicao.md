@@ -6,12 +6,12 @@ Facilitar o escoamento da produção da agricultura familiar por meio de uma sol
 
 ## Objetivo de Medição 1
 
-| **🔍 Analisar**          | o Agromart                                |
+| **Analisar**          | o Agromart                                |
 |--------------------------|-------------------------------------------|
-| **🎯 Para o propósito de** | entender o contexto da aplicação         |
-| **📍 Com respeito a**     | usabilidade do aplicativo                |
-| **💡 Do ponto de vista da** | equipe de desenvolvimento                |
-| **🏫 No contexto de**     | disciplina Qualidade de Software          |
+| **Para o propósito de** | entender o contexto da aplicação         |
+| **Com respeito a**     | usabilidade do aplicativo                |
+| **Do ponto de vista da** | equipe de desenvolvimento                |
+| **No contexto de**     | disciplina Qualidade de Software          |
 
 ## Questões Objetivo de Medição 1
 
@@ -67,15 +67,15 @@ Facilitar o escoamento da produção da agricultura familiar por meio de uma sol
 
 ## Abstraction sheets
 
-| **👁️ Objeto** | **🚀 Propósito** | **📍 Foco de Qualidade** | **💡 Ponto de Vista** |
+| **Objeto** | **Propósito** | **Foco de Qualidade** | **Ponto de Vista** |
 |---------------|-----------------|-------------------------|----------------------|
 | Agromart      | Entender o contexto da aplicação | Usabilidade | Equipe de desenvolvimento |
 
-| 🎯 **Foco de Qualidade** | 🧩 **Fatores de Variação** |
+| **Foco de Qualidade** | **Fatores de Variação** |
 |------------------------|---------------------------|
 | ● A interface está alinhada a princípios de usabilidade (simplicidade, acessibilidade, navegação intuitiva).<br>● Os fluxos operacionais são intuitivos e não exigem treinamento intensivo.<br>● A interface é acessível para diferentes perfis de usuários (agricultores e consumidores).<br>● A documentação técnica é clara e suficiente para guiar o desenvolvimento. | ● Nível de experiência dos usuários.<br>● Requisitos de acessibilidade.<br>● Frequência de revisões de usabilidade.<br>● Clareza da documentação técnica. |
 
-| 📋 **Hipóteses Base (estimativas)** | ✅ **Impacto dos Fatores de Variação** |
+| **Hipóteses Base (estimativas)** | **Impacto dos Fatores de Variação** |
 |------------------------------------|--------------------------------------|
 | ● Interface com foco em simplicidade, acessibilidade e navegação intuitiva. (**Q1**)<br>● Os fluxos principais são compreensíveis sem necessidade de treinamento intensivo. (**Q2**)<br>● O design considera diferentes perfis de usuários (agricultores, consumidores com baixa familiaridade tecnológica). (**Q3**)<br>● Documentação clara e suficiente (**Q4**). | ● Usuários com menor familiaridade digital podem ter mais dificuldades com a navegação.<br>● A falta de requisitos de acessibilidade pode comprometer a experiência de usuários com deficiências.<br>● Revisões frequentes aumentam a consistência e a qualidade da usabilidade.<br>● Documentação mal elaborada pode gerar dúvidas e inconsistências no desenvolvimento. |
 
