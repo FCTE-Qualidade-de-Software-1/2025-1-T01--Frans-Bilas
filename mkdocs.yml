@@ -45,7 +45,8 @@ nav:
   - Equipe Frans Bilas: "index.md"
   - Agromart: "Agromart.md"
   - Processo de Avaliação do Produto:
-    - Etapa 1: "EtapaUm/EtapaUm.md"
-  - GQM:
-    - Fase Definição: "GQM/FaseDefinicao.md"
+    - Fase 1: "Fase1/Fase1.md"
+    - Fase 2: "Fase2/Fase2.md"
+    - Fase 3: "Fase3/Fase3.md"
+    - Fase 4: "Fase4/Fase4.md"
 
