@@ -6,4 +6,4 @@ Para a fase 3, o objetivo é de avaliar a qualidade do software AgroMart, com en
 
 ## 2. Escopo da Avaliação
 
-O escopo da avaliação inclui o produto (Software AgroMart) e as características avaliadas na entrega 1, e como dito anteriormente, com o foco principal sendo a Usabilidade e a Acessabilidade.
+O escopo da avaliação inclui o produto (Software AgroMart) e as características avaliadas na entrega 1, e como dito anteriormente, com o foco principal sendo a Usabilidade e a Acessibilidade.
