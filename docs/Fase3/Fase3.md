@@ -2,8 +2,36 @@
 
 ## 1. Objetivo da Avaliação
 
-Para a fase 3, o objetivo é de avaliar a qualidade do software AgroMart, com enfoque nas características de Usabilidade e Acessibilidade, buscando identificar pontos críticos e possíveis melhorias, com base nas métricas. Essa avaliação seguirá as métricas expostas na fase 2, garantindo a coleta de dados objetivos e consistentes.
+Na Fase 3, o objetivo principal é avaliar a qualidade do software AgroMart, com ênfase em:
+
+- **Usabilidade**: análise da interface conforme princípios estabelecidos (heurísticas de Nielsen)
+- **Acessibilidade**: adequação a diferentes perfis de usuários
+
+A avaliação será baseada nas métricas definidas na Fase 2 (M1.1–M3.2), garantindo:
+
+- Coleta de dados objetivos  
+- Identificação de pontos críticos  
+- Proposição de melhorias mensuráveis  
 
 ## 2. Escopo da Avaliação
 
-O escopo da avaliação inclui o produto (Software AgroMart) e as características avaliadas na entrega 1, e como dito anteriormente, com o foco principal sendo a Usabilidade e a Acessibilidade.
+### Componentes Avaliados
+
+| Componente          | Detalhamento                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Produto**         | Software AgroMart (versão atual, funcionalidades principais)               |
+| **Características** | Usabilidade (simplicidade, navegação intuitiva) e Acessibilidade (design inclusivo) |
+| **Critérios**       | Requisitos de qualidade da Fase 1 e métricas quantitativas da Fase 2       |
+
+### Limitações
+
+- Análise de desempenho ou segurança (fora do escopo desta fase)
+- Avaliação de funcionalidades não relacionadas aos fluxos principais
+
+### Metodologia
+
+A avaliação utilizará:
+
+1. Testes manuais com checklist baseado nas heurísticas de Nielsen
+2. Medições quantitativas das métricas definidas na Fase 2
+3. Análise comparativa com os requisitos estabelecidos na Fase 1
