@@ -42,11 +42,13 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Equipe Frans Bilas: "index.md"
-  - Agromart: "Agromart.md"
-  - Processo de Avaliação do Produto:
-    - Fase 1: "Fase1/Fase1.md"
-    - Fase 2: "Fase2/Fase2.md"
-    - Fase 3: "Fase3/Fase3.md"
-    - Fase 4: "Fase4/Fase4.md"
-
+  - 1. Sobre a Equipe: "index.md"
+  - Projeto Agromart:
+      - 2. Visão Geral: "Agromart.md"
+      - 3. Processo de Avaliação do Produto:
+          - 3.1. Fase 1: "Fase1/Fase1.md"
+          - 3.2. Fase 2: "Fase2/Fase2.md"
+          - 3.3. Fase 3: "Fase3/Fase3.md"
+          - 3.4. Fase 4: "Fase4/Fase4.md"
+      - 4. Dados Coletados:
+          - 3.1. Heurísticas de Usabilidade: "DocumentosComplementares/DesenvolvimentoPrototipo.md"
