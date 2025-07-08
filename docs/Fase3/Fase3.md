@@ -2,7 +2,7 @@
 
 ## 1. Objetivo da Avaliação
 
-Na Fase 3, o objetivo principal é avaliar a qualidade do software AgroMart, com ênfase em:
+Avaliar a qualidade do software AgroMart, com ênfase em:
 
 - **Usabilidade**: análise da interface conforme princípios estabelecidos (heurísticas de Nielsen)
 - **Acessibilidade**: adequação a diferentes perfis de usuários
