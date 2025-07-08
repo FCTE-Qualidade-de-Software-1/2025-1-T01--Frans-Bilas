@@ -85,6 +85,132 @@ A avaliação utilizará:
 | **Investimento** | Tempo em análise de usabilidade/acessibilidade<br>Esforço de padronização |
 | **Duração** | Período: Março a Julho<br>Entregas principais: Abril, Junho e Julho |
 
+## 6. Aplicação métrica
+
+### 6.1 **Q1**: O design da interface do Agromart está alinhado aos princípios de usabilidade definidos pelas heurísticas de Nielsen?
+***Hipótese:*** A interface do Agromart está sendo construída com foco em simplicidade, acessibilidade e navegação intuitiva.
+
+M1.1: Número de inconsistências de usabilidade identificadas nas análises
+
+> As inconsistências apontadas totalizam mais de 20 pontos críticos relacionados a:
+
+- Uso incorreto de idioma
+- Hierarquia visual 
+- Falta de padronização e feedback
+
+M1.2: Número de heurísticas de Nielsen cobertas pelas recomendações de melhoria
+
+> As seguintes heurísticas foram abordadas nas recomendações:
+
+- Visibilidade do status do sistema
+- Compatibilidade entre sistema e mundo real
+- Controle e liberdade do usuário
+- Eficiência e flexibilidade de uso
+- Estética e design minimalista
+- Prevenção de erros
+- Reconhecimento em vez de memorização
+- Consistência e padronização
+- Ajuda aos usuários a reconhecerem, diagnosticarem e se recuperarem de erros
+
+M1.3: Porcentagem de sugestões de melhoria aplicadas em relação ao total identificado
+
+> Exemplo de melhorias aplicadas:
+
+- Alteração de textos em inglês para português (ex: "Profile" → "Perfil", "Search" → "Pesquisa") 
+- Reorganização do botão "Sair" 
+- Adição de botão "Limpar filtros" 
+- Padronização de botões (“Ver detalhes”, “Remover”) 
+- Adição de tooltips para ícones ambíguos 
+- Confirmação de saída e finalização de compra 
+
+> Foram aplicadas a maioria das sugestões identificadas, sugerindo um alto índice de adequação (>80%).
+
+--- 
+
+### 6.2 **Q2**: As funcionalidades do Agromart são intuitivas para os fluxos de operação definidos?
+***Hipótese:*** Os principais fluxos são compreensíveis sem a necessidade de treinamento intensivo.
+
+M2.1: Tempo médio para completar os fluxos principais durante testes de usabilidade internos
+
+> Resultados (bons indicadores de fluidez e clareza):
+
+- Login: ~12 segundos
+- Fazer pedido: ~22 segundos
+- Pesquisar loja + fazer pedido: ~30 segundos
+
+M2.2: Quantidade de passos necessários para realizar operações críticas
+
+> Fluxos otimizados após ajustes no protótipo:
+
+- Fazer pedido: apenas 3 cliques
+- Pesquisar e comprar: 5 cliques
+- Login: 4 cliques
+
+M2.3: Número de dúvidas levantadas pela equipe durante as fases de testes
+
+> As inconsistências levantadas (ex: botão "Realizar", título duplicado, botão “Sair” no meio da lista) foram discutidas como possíveis fontes de dúvida.
+> Após a aplicação das melhorias (ex: mudança para “Finalizar”, reorganização de botões), essas dúvidas foram minimizadas.
+
+---
+
+### 6.3 **Q3**: O desenvolvimento do Agromart está garantindo a acessibilidade da interface para diferentes perfis de usuários?
+***Hipótese:*** O design e os componentes da aplicação estão sendo desenvolvidos levando em consideração diferentes perfis de usuários (como agricultores e consumidores com variados níveis de familiaridade com tecnologia).
+
+M3.1: Número de elementos textuais identificados como barreira de linguagem ou vocabulário técnico inadequado
+
+> Foram apontadas inconsistências em termos como:
+- ***“Profile” / “Search” / “History”***
+- “Realizar” (como verbo confuso para ação de compra)
+>  Todos esses foram substituídos por termos mais claros e em português, garantindo melhor compreensão para o público-alvo.
+
+M3.2: Quantidade de ajustes realizados com base em recomendações relacionadas à clareza visual e semântica dos elementos
+
+> Melhorias implementadas:
+
+- Adição de explicações e tooltips (ex: ícones de ajuda e notificações)
+- Organização semântica dos botões (ex: “Sair” no fim, “Finalizar” com modal de confirmação)
+- Estímulo à clareza por meio de reforço visual (botões destacados, campos mais visíveis, etc.)
+
+> Essas mudanças melhoram o acesso para usuários menos experientes, contribuindo com acessibilidade cognitiva e operacional.
+
+### 6.4 Resumo de métricas aplicadas
+
+| **Métricas** | 📋 **Dados coletados** |
+|-------------|--------------------------------------|
+| **M1.1:** Número de inconsistências de usabilidade identificadas nas análises. | Mais de 20 inconsistências levantadas nas telas. |
+| **M1.2:** Número de heurísticas de Nielsen cobertas pelas recomendações de melhoria. | 9 heurísticas diferentes foram abordadas. |
+| **M1.3:** Porcentagem de sugestões de melhoria aplicadas em relação ao total identificado. | Grande parte das sugestões já foi incorporada ao protótipo, incluindo textos, botões, confirmações e organização de elementos. Estimativa de >80%. |
+| **M2.1:** Tempo médio para completar os fluxos principais durante testes de usabilidade internos. | Login: ~12 segundos<br>Fazer pedido: ~22 segundos<br>Pesquisar e fazer pedido: ~30 segundos |
+| **M2.2:** Quantidade de passos necessários para realizar operações críticas. | Login: 4 cliques<br>Fazer pedido: 3 cliques<br>Pesquisar e fazer pedido: 5 cliques |
+| **M2.3:** Número de dúvidas levantadas pela equipe durante as fases de testes. | Diversas dúvidas surgiram (ex: botão “Realizar”, botão “Sair”, títulos ambíguos), mas foram reduzidas após as melhorias propostas. |
+| **M3.1:** Número de elementos textuais identificados como barreira de linguagem ou vocabulário técnico inadequado. | Pelo menos 5 ocorrências nas análises. |
+| **M3.2:** Quantidade de ajustes realizados com base em recomendações relacionadas à clareza visual e semântica dos elementos. | Aproximadamente 8 ajustes aplicados, como mudança de textos, tooltips, confirmações e reordenação de botões. |
+
+### 6.5 Resumo Relacional (Tabela Compacta)
+
+| Inconsistência / Melhoria                                      | Q1 | Q2 | Q3 | Métrica Relacionada               |
+|----------------------------------------------------------------|----|----|----|-----------------------------------|
+| “Profile”, “Search” em inglês                                  | ✅ |    | ✅ | M1.1, M1.3, M3.1                  |
+| Botão “Sair” mal posicionado                                   | ✅ | ✅ |    | M1.1, M1.3, M2.3                  |
+| Ausência de botão “limpar filtros”                             | ✅ | ✅ |    | M1.1, M1.3, M2.2                  |
+| “Realizar” ambíguo                                             | ✅ | ✅ | ✅ | M1.1, M1.3, M2.3, M3.1            |
+| Adição de confirmação de ações (sair, comprar)                 | ✅ | ✅ |    | M1.3, M2.3                        |
+| Design do botão de pesquisa pouco visível                      | ✅ | ✅ |    | M1.1, M2.2                        |
+| Tooltips nos ícones de ajuda                                   | ✅ | ✅ | ✅ | M1.2, M2.3, M3.2                  |
+| Padronização visual de botões                                  | ✅ |    | ✅ | M1.2, M3.2                        |
+| Testes de fluxo com tempo e cliques baixos                     |    | ✅ |    | M2.1, M2.2                        |
+
+## 7. Proposta de Melhoria
+Com base nas análises heurísticas realizadas e nas sugestões levantadas ao longo do processo de avaliação, foi desenvolvido um protótipo de alta fidelidade utilizando a ferramenta Figma. Esse protótipo representa as melhorias aplicadas à interface mobile do Agromart, com o objetivo de aprimorar a experiência do usuário, garantir maior usabilidade e assegurar a compatibilidade com os perfis diversos de usuários, como agricultores e consumidores.
+
+As alterações implementadas no protótipo contemplam ajustes visuais, reorganização de elementos, padronização de termos e reforço da acessibilidade. Para entender melhor as melhorias implementadas, acesse o documento de [Análise de Heurísticas de Usabilidade](../DocumentosComplementares/DesenvolvimentoPrototipo.md).
+
+A seguir, são apresentados o antes e o depois das telas prototipadas.
+
+### Tela Inicial
+![Antes](../assets/antes_pag1.png) ![Depois](../assets/depois_pag1.png)
+
+
 ## Tabela de contribuições
 
 | Matrícula       | Nome Completo                          | Contribuição (%) |
