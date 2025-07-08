@@ -7,7 +7,7 @@ Avaliar a qualidade do software AgroMart, com ênfase em:
 - **Usabilidade**: análise da interface conforme princípios estabelecidos (heurísticas de Nielsen);
 - **Acessibilidade**: adequação a diferentes perfis de usuários.
 
-A avaliação será baseada nas métricas definidas na Fase 2 (M1.1–M3.2), garantindo:
+A avaliação será baseada nas métricas definidas na Fase 2 (M1.1 – M3.2), garantindo:
 
 - Coleta de dados objetivos; 
 - Identificação de pontos críticos; 
@@ -48,7 +48,7 @@ A avaliação utilizará:
 
 | Equipe        | Commits | ++ (Adições) | -- (Remoções) | Datas de Atividade       |
 |---------------|---------|--------------|---------------|--------------------------|
-| Geral         | 33      | +- 626       | +- 245        | 26/05, 09/06, 23/06, 07/07, 08/07 |
+| Geral         | 43      | +- 802       | +- 344        | 26/05, 09/06, 23/06, 07/07, 08/07 |
 
 ### 4.2 Qualidade (Fase 2)
 
@@ -62,20 +62,20 @@ A avaliação utilizará:
 
 | Área de Trabalho | Distribuição |
 |------------------|-------------|
-| Documentação Fase 1 | 16% por membro |
-| Documentação Fase 2 | 18% por membro |
-| Documentação Fase 3 | 16% por membro |
+| Documentação Fase 1 | 16.6% por membro |
+| Documentação Fase 2 | 18% para 5 membros e 10% para 1 membro |
+| Documentação Fase 3 | 16.6% por membro |
 
 ### 4.4 Cronograma
 
 | Marco | Data | Status |
 |-------|------|--------|
-| Formação das equipes | 26/03 | Concluído |
+| Formação das Equipes | 26/03 | Concluído |
 | PC1 (Ponto de Controle 1) | 19/04 | Concluído |
 | EU1/AP1 (Entrega 1) | 21/04 | Concluído |
-| PC2 | 02/06 | Concluído |
-| EU2 | 07/07 | Concluído |
-| PC3 | 07/07 | Concluído |
+| PC2 (Ponto de Controle 2) | 02/06 | Concluído |
+| EU2 (Entrega 2) | 07/07 | Concluído |
+| PC3 (Ponto de Controle 3) | 07/07 | Concluído |
 
 ## 5. Análise CID
 
@@ -83,7 +83,7 @@ A avaliação utilizará:
 |----------|--------------|
 | **Custo** | 6 membros × horas dedicadas (baseado em commits)<br>Foco em desenvolvimento e documentação |
 | **Investimento** | Tempo em análise de usabilidade/acessibilidade<br>Esforço de padronização |
-| **Duração** | Período: Março-Julho<br>Entregas principais: Abril, Junho, Julho |
+| **Duração** | Período: Março a Julho<br>Entregas principais: Abril, Junho e Julho |
 
 ## Tabela de contribuições
 
