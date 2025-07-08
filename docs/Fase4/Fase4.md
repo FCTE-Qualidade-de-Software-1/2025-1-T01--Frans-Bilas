@@ -4,14 +4,14 @@
 
 Avaliar a qualidade do software AgroMart, com ênfase em:
 
-- **Usabilidade**: análise da interface conforme princípios estabelecidos (heurísticas de Nielsen)
-- **Acessibilidade**: adequação a diferentes perfis de usuários
+- **Usabilidade**: análise da interface conforme princípios estabelecidos (heurísticas de Nielsen);
+- **Acessibilidade**: adequação a diferentes perfis de usuários.
 
 A avaliação será baseada nas métricas definidas na Fase 2 (M1.1–M3.2), garantindo:
 
-- Coleta de dados objetivos  
-- Identificação de pontos críticos  
-- Proposição de melhorias mensuráveis  
+- Coleta de dados objetivos; 
+- Identificação de pontos críticos; 
+- Proposição de melhorias mensuráveis.
 
 ## 2. Escopo da Avaliação
 
@@ -28,9 +28,9 @@ A avaliação será baseada nas métricas definidas na Fase 2 (M1.1–M3.2), gar
 
 A avaliação utilizará:
 
-1. Testes manuais com checklist baseado nas heurísticas de Nielsen
-2. Medições quantitativas das métricas definidas na Fase 2
-3. Análise comparativa com os requisitos estabelecidos na Fase 1
+1. Testes manuais com checklist baseado nas heurísticas de Nielsen;
+2. Medições quantitativas das métricas definidas na Fase 2;
+3. Análise comparativa com os requisitos estabelecidos na Fase 1.
 
 ## 3. Modelo PSM/CID Aplicado
 
@@ -49,8 +49,6 @@ A avaliação utilizará:
 | Equipe        | Commits | ++ (Adições) | -- (Remoções) | Datas de Atividade       |
 |---------------|---------|--------------|---------------|--------------------------|
 | Geral         | 33      | +- 626       | +- 245        | 26/05, 09/06, 23/06, 07/07, 08/07 |
-
-**Análise**: Atividade concentrada em datas específicas (26/05, 09/06, 23/06, 07/07, 08/07).
 
 ### 4.2 Qualidade (Fase 2)
 
