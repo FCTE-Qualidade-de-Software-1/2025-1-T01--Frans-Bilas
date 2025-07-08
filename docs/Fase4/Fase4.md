@@ -209,32 +209,107 @@ A seguir, são apresentados o antes e o depois das telas prototipadas.
 
 ### 7.1. Tela Inicial
 
-<div align="center">
-<img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag1.png?raw=true" style="width: 65%;">
-
-<img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag1.jpeg?raw=true" style="width: 65%;">
-</div> 
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag1.jpeg?raw=true" alt="Antes 1" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 1</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag1.png?raw=true" alt="Depois 1" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 1</strong></p>
+  </div>
+</div>
 
 ### 7.2. Tela de Login
-![Antes](../assets/antes_pag2.jpeg) ![Depois](../assets/depois_pag2.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag2.jpeg?raw=true" alt="Antes 2" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 2</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag2.png?raw=true" alt="Depois 2" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 2</strong></p>
+  </div>
+</div>
 
 ### 7.3. Tela de Perfil
-![Antes](../assets/antes_pag3.jpeg) ![Depois](../assets/depois_pag3.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag3.jpeg?raw=true" alt="Antes 3" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 3</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag3.png?raw=true" alt="Depois 3" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 3</strong></p>
+  </div>
+</div>
 
 ### 7.4. Tela Home
-![Antes](../assets/antes_pag4.jpeg) ![Depois](../assets/depois_pag4.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag4.jpeg?raw=true" alt="Antes 4" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 4</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag4.png?raw=true" alt="Depois 4" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 4</strong></p>
+  </div>
+</div>
 
 ### 7.5. Tela de Pesquisa
-![Antes](../assets/antes_pag5.jpeg) ![Depois](../assets/depois_pag5.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag5.jpeg?raw=true" alt="Antes 5" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 5</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag5.png?raw=true" alt="Depois 5" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 5</strong></p>
+  </div>
+</div>
 
 ### 7.6. Tela de Histórico
-![Antes](../assets/antes_pag6.jpeg) ![Depois](../assets/depois_pag6.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag6.jpeg?raw=true" alt="Antes 6" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 6</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag6.png?raw=true" alt="Depois 6" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 6</strong></p>
+  </div>
+</div>
 
 ### 7.7. Tela de Cesta
-![Antes](../assets/antes_pag7.jpeg) ![Depois](../assets/depois_pag7.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag7.jpeg?raw=true" alt="Antes 7" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 7</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag7.png?raw=true" alt="Depois 7" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 7</strong></p>
+  </div>
+</div>
 
 ### 7.8. Tela de Pedidos
-![Antes](../assets/antes_pag8.jpeg) ![Depois](../assets/depois_pag8.png)
+
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag8.jpeg?raw=true" alt="Antes 8" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Antes – Tela 8</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag8.png?raw=true" alt="Depois 8" style="width: 350px; border: 1px solid #ccc;">
+    <p><strong>Depois – Tela 8</strong></p>
+  </div>
+</div>
 
 
 ## Tabela de contribuições
