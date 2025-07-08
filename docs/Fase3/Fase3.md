@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este plano de avaliação estabelece a estrutura para a execução sistemática da avaliação do software AgroMart na Fase 4, garantindo alinhamento com os objetivos de avaliação de usabilidade e acessibilidade. O documento servirá como guia para a coleta e análise de dados.
+Este plano de avaliação estabelece a estrutura para a execução sistemática da avaliação do software AgroMart na Fase 4, garantindo alinhamento com os objetivos de avaliação de usabilidade e acessibilidade, escolhidos anteriormente como foco pelo grupo. O documento servirá como guia para a coleta e análise de dados.
 
 ## 2 Objetivos do Plano de Avaliação
 
@@ -16,7 +16,7 @@ Este plano de avaliação estabelece a estrutura para a execução sistemática 
 
 **Métricas de Usabilidade**:
 
-- Definição dos valores de referência (M1.1-M1.3);
+- Definição dos valores de referência (M1.1 - M1.3);
 - Estabelecimento de parâmetros para análise temporal;
 - Preparação de fórmulas para cálculo de desvios padrão.
 
@@ -42,12 +42,12 @@ Este plano de avaliação estabelece a estrutura para a execução sistemática 
 
 | Marco | Data |
 |-------|------|
-| Formação das equipes | 26/03 |
+| Formação das Equipes | 26/03 |
 | PC1 (Ponto de Controle 1) | 19/04 |
 | EU1/AP1 (Entrega 1) | 21/04 |
-| PC2 | 02/06 |
-| EU2 | 07/07 |
-| PC3 | 07/07 |
+| PC2 (Ponto de Controle 2) | 02/06 |
+| EU2 (Entrega 2) | 07/07 |
+| PC3 (Ponto de Controle 3) | 07/07 |
 
 ## 5. Critérios de Avaliação
 
@@ -66,6 +66,17 @@ Este plano de avaliação estabelece a estrutura para a execução sistemática 
 ## 7. Validação do Plano
 
 - Revisão por pares internos (2 dias);
-- Apresentação para a turma de Qualidade de Software (e professora) (1 dia);
+- Apresentação para a turma e a professora de Qualidade de Software (1 dia);
 - Incorporação de feedbacks (2 dias);
 - Versão final aprovada pela professora.
+
+## Tabela de contribuições
+
+| Matrícula       | Nome Completo                          | Contribuição (%) |
+|-----------------|----------------------------------------|------------------|
+| 222006534       | Anna Clara Cardoso Evangelista Brandão |       16.6       |
+| 231011220       | Davi Camilo Menezes                    |       16.6       |
+| 221022050       | Larissa de Jesus Vieira                |       16.6       |
+| 221008356       | Maria Eduarda Vieira Monteiro          |       16.6       |
+| 221022417       | Paulo Henrique Melo de Souza           |       16.6       |
+| 221031238       | Victor Augusto de Sousa Câmara         |       16.6       |
