@@ -34,6 +34,7 @@ extra:
   #logo: images/logo.png
 
 markdown_extensions:
+  - md_in_html
   - admonition
   - codehilite
   - footnotes
@@ -51,4 +52,4 @@ nav:
           - 3.3. Fase 3: "Fase3/Fase3.md"
           - 3.4. Fase 4: "Fase4/Fase4.md"
       - 4. Dados Coletados:
-          - 3.1. Heurísticas de Usabilidade: "DocumentosComplementares/DesenvolvimentoPrototipo.md"
+          - 4.1. Heurísticas de Usabilidade: "DocumentosComplementares/DesenvolvimentoPrototipo.md"

@@ -207,8 +207,34 @@ As alterações implementadas no protótipo contemplam ajustes visuais, reorgani
 
 A seguir, são apresentados o antes e o depois das telas prototipadas.
 
-### Tela Inicial
-![Antes](../assets/antes_pag1.png) ![Depois](../assets/depois_pag1.png)
+### 7.1. Tela Inicial
+
+<div align="center">
+<img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/depois_pag1.png?raw=true" style="width: 65%;">
+
+<img src="https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Frans-Bilas/blob/main/docs/assets/antes_pag1.jpeg?raw=true" style="width: 65%;">
+</div> 
+
+### 7.2. Tela de Login
+![Antes](../assets/antes_pag2.jpeg) ![Depois](../assets/depois_pag2.png)
+
+### 7.3. Tela de Perfil
+![Antes](../assets/antes_pag3.jpeg) ![Depois](../assets/depois_pag3.png)
+
+### 7.4. Tela Home
+![Antes](../assets/antes_pag4.jpeg) ![Depois](../assets/depois_pag4.png)
+
+### 7.5. Tela de Pesquisa
+![Antes](../assets/antes_pag5.jpeg) ![Depois](../assets/depois_pag5.png)
+
+### 7.6. Tela de Histórico
+![Antes](../assets/antes_pag6.jpeg) ![Depois](../assets/depois_pag6.png)
+
+### 7.7. Tela de Cesta
+![Antes](../assets/antes_pag7.jpeg) ![Depois](../assets/depois_pag7.png)
+
+### 7.8. Tela de Pedidos
+![Antes](../assets/antes_pag8.jpeg) ![Depois](../assets/depois_pag8.png)
 
 
 ## Tabela de contribuições
