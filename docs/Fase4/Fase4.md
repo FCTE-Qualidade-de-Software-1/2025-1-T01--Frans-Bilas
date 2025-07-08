@@ -15,7 +15,7 @@ A avaliação será baseada nas métricas definidas na Fase 2 (M1.1–M3.2), gar
 
 ## 2. Escopo da Avaliação
 
-### Componentes Avaliados
+### 2.1 Componentes Avaliados
 
 | Componente          | Detalhamento                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ A avaliação será baseada nas métricas definidas na Fase 2 (M1.1–M3.2), gar
 | **Critérios**       | Requisitos de qualidade da Fase 1 e métricas quantitativas da Fase 2       |
 
 
-### Metodologia
+### 2.2 Metodologia
 
 A avaliação utilizará:
 
