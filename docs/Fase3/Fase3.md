@@ -54,8 +54,8 @@ Este plano de avaliação estabelece a estrutura para a execução sistemática 
 - **Adequação aos Requisitos**: Definição clara dos critérios baseados na Fase 1;
 - **Benchmarking**: Estabelecimento de parâmetros setoriais para comparação;
 - **Impacto no Usuário**: Definição prévia de:
-  - Níveis de severidade;
-  - Frequência de ocorrência relevante.
+    - Níveis de severidade;
+    - Frequência de ocorrência relevante.
 
 ## 6. Ferramentas e Recursos
 
