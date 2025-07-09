@@ -311,6 +311,10 @@ A seguir, são apresentados o antes e o depois das telas prototipadas.
   </div>
 </div>
 
+### 7.9 Versão Interativa
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/xl8pCqGGhHNQkTWwv6QCur/Qualidade-de-Software?node-id=15-15&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=15%3A4&embed-host=share" allowfullscreen></iframe>
+
 
 ## Tabela de contribuições
 
